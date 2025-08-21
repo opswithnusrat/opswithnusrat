@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Devops, Automation, Kunernates, Aws, Azure, Monitoring**
 
-# <h3 align="left">Connect with me:</h3>
+# <h3 align="left">Connect with me:nusrat.dops@gmail.com </h3>
 <p align="left">
 </p>
 
